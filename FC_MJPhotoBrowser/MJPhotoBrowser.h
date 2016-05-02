@@ -6,7 +6,7 @@
 
 #import <UIKit/UIKit.h>
 #import "MJPhoto.h"
-#import "DTBaseViewController.h"
+//#import "DTBaseViewController.h"
 
 @protocol MJPhotoBrowserDelegate;
 @interface MJPhotoBrowser : NSObject <UIScrollViewDelegate>
